@@ -1,6 +1,6 @@
 <a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://www.theverge.com/podcasts">The Verge </a> podcasts.<br>
 
-<img src=""><br>
+<img src="https://github.com/leopheard/TheVerge/blob/9c2dabc50286024a0c21c0621fe8b0df3b14d475/resources/media/fanart.jpg"><br>
 
 Decoder With Nilay Patel<br>
 The Vergecast<br>
